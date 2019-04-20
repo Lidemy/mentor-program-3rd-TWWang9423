@@ -25,7 +25,7 @@
 9. 確認作業已通過，自己的 issue 是 closed 的狀態，將分支切回原本的 master。
    `git checkout master`
 10. 回到 master 後，將 GitHub 上已經經過 merge 的東西，拉下來與 local 端進行同步。
-   `git pull origin week1`
+   `git pull origin master`
 11. 將原本做作業用的分支刪除。
    `git branch -d week1`
 
